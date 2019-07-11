@@ -1,8 +1,10 @@
 # Autoencoder + Keras para sistemas de recomendación
 PROYECTOS I 2019-A UNSA
-##ALUMNOS
+
+## ALUMNOS
 * ALBERTO VISA FLORES
 * NICOLS AZA MAMANI
+
 ## Requerimientos
 * python=3.6
 * keras=2.1.5
